@@ -15,12 +15,12 @@ _Application will select out all the prime numbers of a given input integer._
 
 ## Specifications
 
-* _Return number of quarters if number is larger than 25 cents_
-* Example input: 68
-* Example output: 2
-* _Return number of dimes if number is larger than 10 cents_
-* Example input: 18
-* Example output: 1
+* _Populate an array with numbers counting up to the value inputted by user, starting with 2._
+* Example input: 15
+* Example output: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+* _Removes all numbers divisible by two, excepting 2._
+* Example input: 15
+* Example output: [2, 4, 5, 7, 9, 11, 13, 15]
 * _Return number of nickels if number is larger than 5 cents_
 * Example input: 8
 * Example output: 1
